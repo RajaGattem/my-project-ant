@@ -1,0 +1,17 @@
+bulkRetrieve
+cancelDeploy
+deployCode
+deployCodeCheckOnly
+deployCodeFailingTest
+deployCodeNoTestLevelSpecified
+deployCodeRunLocalTests
+deployUnpackaged
+deployZip
+describeMetadata
+listMetadata
+quickDeploy
+retrieveCode
+retrievePkg
+retrieveUnpackaged
+test
+undeployCode
